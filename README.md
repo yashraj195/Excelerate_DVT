@@ -23,10 +23,10 @@ The internship focused on analyzing and optimizing **Facebook advertising campai
 - Translate data insights into clear, actionable presentations.  
 
 ### How I Achieved Them?  
-- **Week 1:** Led team analysis of campaign data; identified high- and low-performing regions:contentReference[oaicite:0]{index=0}.  
-- **Week 2:** Created bar graphs and heatmaps to highlight cost efficiency by geography & age group:contentReference[oaicite:1]{index=1}.  
-- **Week 3:** Managed the preparation of stakeholder-friendly presentation slides:contentReference[oaicite:2]{index=2}.  
-- **Week 4:** Coordinated and presented findings as a team through a **storytelling format**:contentReference[oaicite:3]{index=3}.  
+- **Week 1:** Led team analysis of campaign data; identified high- and low-performing regions.  
+- **Week 2:** Created bar graphs and heatmaps to highlight cost efficiency by geography & age group.  
+- **Week 3:** Managed the preparation of stakeholder-friendly presentation slides.  
+- **Week 4:** Coordinated and presented findings as a team through a **storytelling format**.  
 
 ---
 
